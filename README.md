@@ -1,2 +1,1 @@
-# devweekgit.git.io
-Currículo do Jornada Dev
+Currículo feito durante Jornada Dev
